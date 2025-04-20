@@ -1,3 +1,13 @@
+# nike_landing_page-pr1
+
+## Project Details
+- **GitHub URL:** https://github.com/mdshahjalal5/nike_landing_page-pr1
+- **Local Directory:** /run/media/sj/developer/web/jobprep/tailwindJsMastery/nike_landing_page-pr1
+- **Username:** sj
+- **Created On:** 20/04/2025 09:45 পূর্বাহ্ণ রবি GMT+6
+- **Location:** Sharifpur, Gazipur, Dhaka
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,4 +20,8 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# chk
+
+- installing tailwindcss
+  bun add -D tailwindcss@3 postcss autoprefixer
+- create tailwind.config.js
+  bunx tailwindcss init -p
